@@ -1,0 +1,5 @@
+A, L
+6.5, 213, 351
+9,   115, 98, 351
+Removed 80 cm from the tip of the wavemaker. 
+The was attached and is 98 cm long. 
